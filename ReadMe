@@ -6,12 +6,14 @@ The overall police-reported crime rate per 100,000 population was also down, by 
 Police clearance rates had been generally declining but ticked up slightly in 2025. This uptick makes sense in light of the decline in crime. 
 Cybercrimes, of which fraud was the most common, had been increasing for a decade until 2023, when they began a slight decrease that continued in 2025. 
 2025 also saw a decrease in organized crime and double-digit declines in some serious crimes, such as breaking and entering and homicide. 
-There was also a sharp increase in some property crime, such as shoplifting under $5,000. The number of police-reported hate crimes decreased 3%.
+The number of police-reported hate crimes decreased 3%.
+However, there was a sharp increase in lesser property crime, notably shoplifting under $5,000. 
 
 AI-assisted preparation notes: 
 These numbers were done in a Google Colab notebook.
 Gemini assisted with writing and debugging the Python code. 
 Visual spotcheck against Statistics Canada numbers was done, with no errors found.
+Notebook checked and powerpoint deck drafted by Claude Opus 4.7.
 
 Official government release: https://www150.statcan.gc.ca/n1/daily-quotidien/260722/dq260722a-eng.htm
 Source data: https://www150.statcan.gc.ca/n1/daily-quotidien/260722/dq260722a-cansim-eng.htm
