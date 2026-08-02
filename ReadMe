@@ -16,5 +16,7 @@ Visual spotcheck against Statistics Canada numbers was done, with no errors foun
 Notebook checked by Claude Opus 4.7, minor code errors found and fixed. 
 Powerpoint deck drafted for review by Claude Opus 4.7.
 
+For visuals, see the executive brief deck. The Colab itself has more detail. 
+
 Official government release: https://www150.statcan.gc.ca/n1/daily-quotidien/260722/dq260722a-eng.htm
 Source data: https://www150.statcan.gc.ca/n1/daily-quotidien/260722/dq260722a-cansim-eng.htm
