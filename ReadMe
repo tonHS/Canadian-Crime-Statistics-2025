@@ -1,3 +1,17 @@
-Readme
+Statistics Canada has released comprehensive crime statistics for 2025. This notebook fetches data on crime severity, crime types and rates, cybercrime, organized crime and hate crime. 
+Insights are included in the notebook in the form of text notes, data frames and visuals. The notebook focuses on 2025 numbers, leaving exploration of underlying factors to a later iteration.
+
+Crime in Canada declined in 2025. The Crime Severity Index, which gives more weight to serious criminal violations, ticked down -4.86 in 2025. 
+The overall police-reported crime rate per 100,000 population was also down, by -2.4%. 
+Police clearance rates had been generally declining but ticked up slightly in 2025. This uptick makes sense in light of the decline in crime. 
+Cybercrimes, of which fraud was the most common, had been increasing for a decade until 2023, when they began a slight decrease that continued in 2025. 
+2025 also saw a decrease in organized crime and double-digit declines in some violent crimes, such as breaking and entering and homicide. 
+There was also a sharp increase in some property crime, such as shoplifting under $5,000. The number of police-reported hate crimes decreased 3%.
+
+AI-assisted preparation notes: 
+These numbers were done in a Google Colab notebook.
+Gemini assisted with writing and debugging the Python code. 
+Visual spotcheck against Statistics Canada numbers was done, with no errors found.
+
 Official government release: https://www150.statcan.gc.ca/n1/daily-quotidien/260722/dq260722a-eng.htm
 Source data: https://www150.statcan.gc.ca/n1/daily-quotidien/260722/dq260722a-cansim-eng.htm
