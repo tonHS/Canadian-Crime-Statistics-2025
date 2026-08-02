@@ -13,7 +13,8 @@ AI-assisted preparation notes:
 These numbers were done in a Google Colab notebook.
 Gemini assisted with writing and debugging the Python code. 
 Visual spotcheck against Statistics Canada numbers was done, with no errors found.
-Notebook checked and powerpoint deck drafted by Claude Opus 4.7.
+Notebook checked by Claude Opus 4.7, minor code errors found and fixed. 
+Powerpoint deck drafted for review by Claude Opus 4.7.
 
 Official government release: https://www150.statcan.gc.ca/n1/daily-quotidien/260722/dq260722a-eng.htm
 Source data: https://www150.statcan.gc.ca/n1/daily-quotidien/260722/dq260722a-cansim-eng.htm
